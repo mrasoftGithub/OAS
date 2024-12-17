@@ -1,5 +1,5 @@
 # OAS 
-Voorbeeldcode bij [blog artikel OAS (Open API Specification)](https://github.com/mrasoftGithub/oas).
+Voorbeeldcode bij [blog artikel OAS (Open API Specification)](https://www.mrasoft.nl/oas/).
 
 Hier staat een ASP.NET Core Web API-project.
 
